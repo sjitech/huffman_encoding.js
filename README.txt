@@ -2,11 +2,14 @@ simple javascript code for huffman encoding
 
 You can run in browser's console or node.js.
 
-From node.js:
+----------Using node.js----------
 >>> node huffman_encoding.js < file_path
 
+the result is same as later.
 
-From browser's console:
+
+----------Using browser's console----------
+
 paste all code from huffman_encoding.js, then you can type commands such as following:
 
 >>> test_huffman_encode('emergency_call')
