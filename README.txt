@@ -25,7 +25,7 @@ total encoded message:
 
 code	huffman_bit_str
 ----	---------------
-0   1
+0	1
 3	01
 2	00
 1	000
