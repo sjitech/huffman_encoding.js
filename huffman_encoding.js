@@ -38,7 +38,7 @@ function make_huffman_code(freq_ary, debug) {
   //finally, node_ary will contains only one combined node which have total frequency.
   node_ary[0].bit_str = '';
   set_bit_str(node_ary[0]);
-  if (debug) console.log('huffman tree: ' + JSON.stringify(node_ary[0], null, '    '));
+  //if (debug) console.log('huffman tree: ' + JSON.stringify(node_ary[0], null, '    '));
 
   //----------------begin debug, you can remove this block----------------
   if (debug) {
